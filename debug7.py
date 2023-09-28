@@ -4,5 +4,5 @@ Debug this program so that it runs
 """
 
 x = 16
-squareRoot = math.sqrt(x)
+squareRoot = x
 print(squareRoot)

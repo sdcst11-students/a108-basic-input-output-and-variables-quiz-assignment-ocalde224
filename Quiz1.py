@@ -103,7 +103,7 @@ the exit() command and move on to the next question
 
 x = 10
 print(f"the value of x in dollars is ${x}")
-exit()
+#exit()
 """
 Q10.
 Modify line 105 so that the output includes the value of x
